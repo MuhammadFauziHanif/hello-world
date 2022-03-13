@@ -1,2 +1,2 @@
-# hello-world
-Introduction to Github
+# About me
+Cerah berangin means sunny and windy weather
